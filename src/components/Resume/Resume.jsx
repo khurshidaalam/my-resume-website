@@ -83,9 +83,9 @@ const Resume = () => {
                             <li><p>ReactJs</p></li>
                             <li><p>Material UI</p></li>
                             <li><p>Es6</p></li>
-                            <li><p>Nodejs</p></li>
+{/*                             <li><p>Nodejs</p></li>
                             <li><p>expressJs</p></li>
-                            <li><p>MongoDB</p></li>
+                            <li><p>MongoDB</p></li> */}
                         </ul>
                         
                     </div>
